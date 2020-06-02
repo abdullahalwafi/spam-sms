@@ -1,5 +1,7 @@
 # Tinggal pake gk usah ngerecode bisa kan ganteng?!
+
 Script spam sms 
+
 $ pkg update && pkg upgrade
 
 $ pkg install python
